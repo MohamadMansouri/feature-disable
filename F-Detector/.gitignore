@@ -1,0 +1,10 @@
+*.so
+*.o
+*.log
+*_trace
+test/results
+test/*_patched
+**/test_imgs
+**/test_pdfs
+**/test_odts
+identification/bin
